@@ -1,5 +1,10 @@
 # Local LLM Document Analysis Dashboard
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![NiceGUI](https://img.shields.io/badge/NiceGUI-2.5.0-purple)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-Compatible-orange)
+
 A web-based document analysis dashboard that integrates with LM Studio for local LLM-powered document processing. Built with Python and NiceGUI, this tool provides a clean interface for analyzing documents using locally-hosted language models.
 
 ## Why This Project?
